@@ -1,0 +1,42 @@
+/* Estilos para el contenedor de navegación */
+nav {
+    background-color: #21373d;
+    padding: 10px;
+  }
+  
+  /* Estilos para la lista de elementos de navegación */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para cada elemento de navegación */
+  nav ul li {
+    display: inline;
+  }
+  
+  /* Estilos para los enlaces de navegación */
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Open sans', sans-serif;
+    padding: 10px;
+  }
+  
+  /* Estilos para los enlaces de navegación al pasar el mouse */
+  nav ul li a:hover {
+    background-color: #19636e;
+  }
+
+  .btn{
+    margin-left: 700px;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+  
